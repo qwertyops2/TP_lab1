@@ -6,11 +6,11 @@ using Magazine.Core.Models;
 
 namespace Magazine.Core.Services
 {
-    internal interface IProductService
+    public interface IProductService
     {
         Product add(Product product);
         Product remove(Guid id);
         Product edit(Product product);
-        Product search(Guid id);
+        Product? search(Guid id);
     }
 }
