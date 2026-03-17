@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|solutionrelative:magazine.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|solutionrelative:magazine.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.webapi\\productservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|solutionrelative:magazine.webapi\\productservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.webapi\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|solutionrelative:magazine.webapi\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.webapi\\data\\dbinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|solutionrelative:magazine.webapi\\data\\dbinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|solutionrelative:magazine.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|solutionrelative:magazine.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{331E22E3-92AF-D3A4-6A9C-21D401F45749}|Magazine.WebApi\\Magazine.WebApi.csproj|solutionrelative:magazine.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|e:\\!stu\\!3_curs_2\\tp\\lab1\\project\\tp_lab1\\magazine.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C3E0C0-5F79-0401-6D3E-77C9245385A5}|Magazine.Core\\Magazine.Core.csproj|solutionrelative:magazine.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.WebApi\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Magazine.WebApi\\Controller\\ProductController.cs",
+              "ToolTip": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.WebApi\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Magazine.WebApi\\Controller\\ProductController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:19:17.343Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,7 +61,7 @@
               "RelativeDocumentMoniker": "Magazine.WebApi\\Program.cs",
               "ToolTip": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.WebApi\\Program.cs",
               "RelativeToolTip": "Magazine.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T11:59:26.464Z",
               "EditorCaption": ""
@@ -57,33 +74,33 @@
               "RelativeDocumentMoniker": "Magazine.WebApi\\Data\\DbInformation.cs",
               "ToolTip": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.WebApi\\Data\\DbInformation.cs",
               "RelativeToolTip": "Magazine.WebApi\\Data\\DbInformation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T11:35:19.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductService .cs",
               "DocumentMoniker": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.WebApi\\ProductService .cs",
               "RelativeDocumentMoniker": "Magazine.WebApi\\ProductService .cs",
               "ToolTip": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.WebApi\\ProductService .cs",
               "RelativeToolTip": "Magazine.WebApi\\ProductService .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwFYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T22:25:31.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IProductService.cs",
               "DocumentMoniker": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.Core\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Magazine.Core\\Services\\IProductService.cs",
               "ToolTip": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.Core\\Services\\IProductService.cs",
               "RelativeToolTip": "Magazine.Core\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T22:22:46.404Z",
               "EditorCaption": ""
@@ -96,19 +113,20 @@
               "RelativeDocumentMoniker": "Magazine.WebApi\\Properties\\launchSettings.json",
               "ToolTip": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.WebApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "Magazine.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-10T22:56:21.119Z"
+              "WhenOpened": "2026-03-10T22:56:21.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.Core\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Magazine.Core\\Models\\Product.cs",
               "ToolTip": "E:\\!stu\\!3_curs_2\\TP\\lab1\\project\\TP_lab1\\Magazine.Core\\Models\\Product.cs",
               "RelativeToolTip": "Magazine.Core\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T21:39:58.15Z",
               "EditorCaption": ""

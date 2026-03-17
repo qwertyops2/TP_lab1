@@ -31,9 +31,9 @@ namespace Magazine.WebApi {
             try
             {
                 var prod = _information.Products.FirstOrDefault(ID => ID.Id == product.Id);
-                if (product == null)
+                if (prod == null)
                 {
-                    throw new Exception($"Продукт с Ид = {product.Id} не найден");
+                    throw new Exception($"Продукт с ID = {product.Id} не найден");
                 }
 
                 prod.Definition = product.Definition;
@@ -46,7 +46,7 @@ namespace Magazine.WebApi {
             }
             catch (Exception ex)
             {
-                throw new Exception($"Ошибка при добавлении продукта: {ex.Message}", ex);
+                throw new Exception($"Ошибка при изменении продукта: {ex.Message}", ex);
             }
         }
 
@@ -57,7 +57,7 @@ namespace Magazine.WebApi {
                 var product = _information.Products.FirstOrDefault(ID => ID.Id == id);
                 if (product == null)
                 {
-                    throw new Exception($"Продукт с Ид = {id} не найден");
+                    throw new Exception($"Продукт с ID = {id} не найден");
                 }
 
                 _information.Products.Remove(product);
@@ -76,6 +76,10 @@ namespace Magazine.WebApi {
             try
             {
                 var product = _information.Products.FirstOrDefault(ID => ID.Id == id);
+                if (product == null)
+                {
+                    throw new Exception($"Продукт с ID = {id} не найден");
+                }
                 return product;
 
             }

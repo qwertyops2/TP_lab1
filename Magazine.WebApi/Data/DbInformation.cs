@@ -9,6 +9,6 @@ namespace Magazine.WebApi.Data
     public class DbInformation : DbContext
     {
         public DbSet<Product> Products { get; set; }
-        public DbInformation(DbContextOptions<DbInformation> options) : base(options) { }
+        public DbInformation(DbContextOptions<DbInformation> options) : base(options) { Database.EnsureCreated(); }
     }
 }
